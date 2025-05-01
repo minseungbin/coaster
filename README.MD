@@ -90,11 +90,14 @@ Notes:
 
 # Contributions
 **Cindy and Malahim**
-- Low-fidelity paper prototype
 - Ideation and user-scenario development
-- Zoom integration and button
+- Low-fidelity prototype and proof of concept 
+- Zoom integration code 
+- Arduino+Python code for Button and Buzzer
+- Iterative refinement of software 
+- Testing multiple hardware solutions for prompting the user to join the Zoom call
 - Website
-- Presentation slide deck creation
+
 
 **Emily**
 - 3D modeling (Onshape) and 3D-printed final prototype
